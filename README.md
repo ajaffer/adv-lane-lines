@@ -118,7 +118,7 @@ I implemented this step in function `warp_detected_lines_onto_original`.  Here i
 
 ### Pipeline (video)
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [video1]
 
 ---
 
