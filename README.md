@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image6]: ./output_images/detect_lane_lines2.png "Fit Visual"
 [image7]: ./output_images/output_metrics.png "Output"
 [video1]: ./output_images/project_video.mp4 "Video"
-[video1]: ./output_images/challenge_video.mp4 "Challenge Video"
+[video2]: ./output_images/challenge_video.mp4 "Challenge Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
